@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey, I'm Cristian 👋
 
-<!--
-**CristianProgrammer/CristianProgrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate from Hofstra University with hands-on experience using Epic and clinical laboratory systems at NYU Langone Health.
 
-Here are some ideas to get you started:
+Programming gives me a way to take an idea from my head and turn it into something real through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Curious by nature, I’m interested in understanding what’s happening behind the code and finding my own way to solve a problem.
+
+💻 I’m drawn to creating, experimenting, and bringing ideas to life through technology.
+
+🚀 Always pushing myself to grow, take on new challenges, and see what I can create next.
+
+🌎 Bilingual in English and Spanish.
