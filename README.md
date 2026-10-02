@@ -1,6 +1,6 @@
 # Hey, I'm Cristian 👋
 
-Computer Science graduate from Hofstra University with hands-on experience using Epic and clinical laboratory systems at NYU Langone Health.
+Computer Science graduate from Hofstra University with hands-on experience using Epic and clinical laboratory systems.
 
 Programming gives me a way to take an idea from my head and turn it into something real through code.
 
